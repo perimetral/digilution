@@ -1,6 +1,6 @@
 {
   "name": "digilution",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "in-the-wild-evolution emulator",
   "main": "app.ja",
   "scripts": {
