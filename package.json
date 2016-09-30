@@ -1,0 +1,26 @@
+{
+  "name": "digilution",
+  "version": "1.0.0",
+  "description": "in-the-wild-evolution emulator",
+  "main": "app.ja",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perimetral/digilution.git"
+  },
+  "keywords": [
+    "evolution",
+    "emulator",
+    "random",
+    "life"
+  ],
+  "author": "perimetral",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/perimetral/digilution/issues"
+  },
+  "homepage": "https://github.com/perimetral/digilution#readme",
+  "dependencies": {}
+}
