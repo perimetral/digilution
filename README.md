@@ -1,4 +1,4 @@
-# digilution
+# digilution [![npm version](https://badge.fury.io/js/digilution.svg)](https://badge.fury.io/js/digilution)
 In-the-wild-evolution emulator. App generates file[s] of random size and fills it up with random bytes, trying to run generated file[s]. If app will run much enough of time[s], it may produce self-replicating life and even intelligence one day, and actually that's why i've implemented it.
 
 ### Installation
